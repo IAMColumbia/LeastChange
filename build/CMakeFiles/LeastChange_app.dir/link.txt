@@ -1,0 +1,1 @@
+/usr/bin/c++.exe CMakeFiles/LeastChange_app.dir/main.cpp.o CMakeFiles/LeastChange_app.dir/Game.cpp.o CMakeFiles/LeastChange_app.dir/Coin.cpp.o -o LeastChange_app.exe -Wl,--out-implib,libLeastChange_app.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

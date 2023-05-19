@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Peace/source/LeastChange/build/CMakeFiles/LeastChange_app.dir
+/cygdrive/c/Users/Peace/source/LeastChange/build/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Peace/source/LeastChange/build/CMakeFiles/rebuild_cache.dir
